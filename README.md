@@ -2,4 +2,4 @@
 
 * Programador Fullstack!
 * 18 anos.
-* Ocupado - PROJETO INCOMPLETO (82%).
+* Ocupado - PROJETO INCOMPLETO (87%).
