@@ -1,5 +1,5 @@
 ## DablioZe - Wz'
 
-* Programador Fullstack!
+* Programador Fullstack - Mais voltado pro backend!
 * 18 anos.
 * Ocupado - PROJETO INCOMPLETO (87%).
