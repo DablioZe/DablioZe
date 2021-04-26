@@ -2,4 +2,4 @@
 
 * Programador Fullstack - Mais voltado pro backend!
 * 18 anos.
-* Ocupado - PROJETO INCOMPLETO (87%).
+* Ocupado - PROJETO INCOMPLETO (87%) - Interrompido temporariamente.
